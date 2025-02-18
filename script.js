@@ -107,7 +107,7 @@ for (let i = 0; i < navigationLinks.length; i++) {
 
 function openResume(event) {
   event.preventDefault(); // Prevent the default action (e.g., page reload)
-  window.open('https://drive.google.com/file/d/1gwEm4z9f3y-_F2e6HG5aNFwqOnsbkXUC/view?usp=drive_link', '_blank');
+  window.open('https://drive.google.com/file/d/18gDFB9z0oHrV9dJBrneIUn9_hxEu9_sj/view', '_blank');
 }
 
 function toggleSidebar() {
